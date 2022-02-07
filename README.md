@@ -19,8 +19,8 @@ Tip들이 마음에 든다면 [본 Repository](https://github.com/kimain050401/d
 
 ### 경기도 교육청에서 제공하는 한글 무료로 다운받고 사용하기
 
-1. [한컴스페이스 다운로드](https://space.malangmalang.com/download)에 접속하여 하단에 있는 `한글 for Mac`을 다운로드하거나, [여기](https://cdn.hancom.com/pds/hnc/DOWN/HancomSpace/HwpMac_HancomSpace.pkg)를 눌러 바로 다운로드합니다.
-2. 다운로드된 pkg 파일을 실행하고, 설치 프로그램의 안내에 따라 설치한 후, 계정 정보 입력 창이 뜨면 학교에서 제공된 `경기도 상용클라우드 계정(userid@dimigoh.goe.go.kr)`을 입력하여 경기도 교육청 라이센스를 인증합니다.
+1. [한컴스페이스 다운로드](https://space.malangmalang.com/download)에 접속하여 하단에 있는 `한글 for Mac`을 누르고, 학교에서 제공된 `경기도 상용클라우드 계정(userid@dimigoh.goe.go.kr)`을 입력하여 로그인한 후 다운로드합니다.
+2. 다운로드된 pkg 파일을 실행하고, 설치 프로그램의 안내에 따라 설치한 후, 계정 정보 입력 창이 뜰 경우, 학교에서 제공된 `경기도 상용클라우드 계정(userid@dimigoh.goe.go.kr)`을 입력하여 경기도 교육청 라이센스를 인증합니다.
 
 ### 교실에 위치한 프린터 드라이버 설치하고 사용하기
 
