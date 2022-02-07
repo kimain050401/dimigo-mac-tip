@@ -16,7 +16,7 @@ Tip들이 마음에 든다면 [본 Repository](https://github.com/kimain050401/d
 
 - [경기도 교육청에서 제공하는 **<u>한글</u>** 무료로 다운받고 사용하기](#경기도-교육청에서-제공하는-한글-무료로-다운받고-사용하기)
 - [교실에 위치한 **<u>프린터 드라이버</u>** 설치하고 사용하기](#교실에-위치한-프린터-드라이버-설치하고-사용하기)
-- [교실 **<u>TV에 AirPlay</u>**하기(LG TV에 한정됨)](#교실-tv에-airplay하기(lg-tv에-한정됨))
+- [교실 **<u>LG TV에 AirPlay</u>**하기](#교실-lg-tv에-airplay하기)
 
 ### 경기도 교육청에서 제공하는 한글 무료로 다운받고 사용하기
 
@@ -28,4 +28,4 @@ Tip들이 마음에 든다면 [본 Repository](https://github.com/kimain050401/d
 1. [삼성전자 서비스: MAC에서 프린터 드라이버 설치 방법이 궁금합니다.](https://www.samsungsvc.co.kr/solution/42606){:target="_blank"}에 접속하여 하단에 있는 `☞ MAC 통합 드라이버 설치 클릭`을 눌러 드라이버를 다운로드하거나, [여기](https://h30438.www3.hp.com/pub/softlib/software13/printers/SS/Print_Common_SW/Samsung_Mac_Driver_V3.93.01.dmg){:target="_blank"}를 눌러 바로 다운로드합니다.
 2. 다운로드된 dmg 파일을 실행하고, 설치 프로그램의 안내에 따라 설치합니다.
 
-### 교실 TV에 AirPlay하기(LG TV에 한정됨)
+### 교실 LG TV에 AirPlay하기
