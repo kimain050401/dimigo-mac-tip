@@ -1,4 +1,4 @@
-# <img src="dimigo-logo.png" width="32px" height="32px" style="vertical-align: middle;"> 디미고맥-팁
+# <img src="dimigo-logo.png" width="32px" height="32px" style="vertical-align: middle;"> dimigo-mac-tip
 
 한국디지털미디어고등학교 Mac 사용 학생들을 위한 꿀팁 🍯
 
